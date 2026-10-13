@@ -11,9 +11,10 @@ are included; recipients do not need to install development tools.
 
 1. Save your projects and close Embedded Firmware Simulator.
 2. Run setup.exe and keep the existing installation folder.
-3. Check for subsequent releases inside the app. Releases after v0.2.0.5 provide
-   a green Check for updates button at the top-right. Version v0.2.0.5 uses
-   Tools → Updates and privacy.
+3. Check for subsequent releases inside the app under Tools → Updates and privacy.
+   Releases after v0.2.0.5 show a green Update available button at the top-right
+   only when a newer version has been detected. There is no top-right control
+   when up to date. Version v0.2.0.5 uses its existing Tools menu.
 
 Saved projects and reports are kept. The first upgrade enables the update checker
 in older copies that did not have one. Later releases are offered inside the app;
