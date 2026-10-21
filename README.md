@@ -1,8 +1,10 @@
-# Embedded Firmware Simulator releases
+# SimXMaster releases
 
-[Official product page, screenshots and getting started](https://embedded-firmware-simulator.witty-genet-3312.chatgpt.site)
+The current v0.2.0.5 installer displays the previous name, Embedded Firmware Simulator. SimXMaster branding is prepared for the next installer.
 
-Windows installers and signed update feeds for Embedded Firmware Simulator.
+[Official product page, screenshots and getting started](https://simxmaster.witty-genet-3312.chatgpt.site)
+
+Windows installers and signed update feeds for SimXMaster.
 
 [Download setup.exe for installation or upgrade](https://mxciidrxfhanxknxcrgx.supabase.co/functions/v1/distribution-download)
 
@@ -11,7 +13,7 @@ are included; recipients do not need to install development tools.
 
 ## Upgrade an existing copy
 
-1. Save your projects and close Embedded Firmware Simulator.
+1. Save your projects and close SimXMaster.
 2. Run setup.exe and keep the existing installation folder.
 3. Check for subsequent releases inside the app under Tools → Updates and privacy.
    Releases after v0.2.0.5 show a green Update available button at the top-right
